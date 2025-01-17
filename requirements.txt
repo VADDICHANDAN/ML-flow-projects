@@ -1,0 +1,10 @@
+mlflow
+# run ipykernal in bash
+#conda install -p "/workspaces/ML-flow-projects/venv" ipykernel --update-deps --force-reinstall
+scikit-learn
+pandas
+numpy
+seaborn
+keras
+tensorflow
+hyperopt
