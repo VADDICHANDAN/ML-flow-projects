@@ -4,4 +4,8 @@ mlflow
 scikit-learn
 pandas
 numpy
+<<<<<<< HEAD
 seaborn
+=======
+seaborn
+>>>>>>> refs/remotes/origin/master
